@@ -1,4 +1,4 @@
-datasciencecoursera-repo
+datasciencecoursera
 ========================
 
-Initial repository for the Mooc The Data Sicientist´s Toolbox 
+Initial repository for The Data Sicientist´s Toolbox Mooc
